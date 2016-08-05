@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "devtools::install_github(\"rstudio/addinexamples\", type = \"source\")\nls\nls()\ndir()\npwd()\nsetwd(\"~/Documents/project/hello/rmarkdown-website-master\")\n",
+    "created" : 1470374955607.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3001636732",
+    "id" : "2E4BA3D0",
+    "lastKnownWriteTime" : 1470372528,
+    "last_content_update" : 1470372528,
+    "path" : "~/Documents/project/hello/hello/.Rhistory",
+    "project_path" : ".Rhistory",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_history"
+}

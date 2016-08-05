@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"My Website\"\n---\n\nHello, Website!\n\n\n",
+    "created" : 1470374915934.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "30029209",
+    "id" : "D11B9D4E",
+    "lastKnownWriteTime" : 1459861628,
+    "last_content_update" : 1470374922896,
+    "path" : "~/Documents/project/hello/hello/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
